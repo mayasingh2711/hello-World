@@ -1,8 +1,10 @@
+WELCOME 
+
 # hello-World
 
-# this is my learning repo for github
+# This is my new repository for github.
 
 
-# No Pull request accepted
+# No Pull request accepted in this repo
 
 ##Learning github for Hacktober Fest
