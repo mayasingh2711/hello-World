@@ -5,6 +5,6 @@ WELCOME
 # This is my new repository for github.
 
 
-# No Pull request accepted in this repo
+#  Pull request are  accepted in this repo
 
 ##Learning github for Hacktober Fest
